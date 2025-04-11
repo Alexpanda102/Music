@@ -1,4 +1,5 @@
 # music
+Steve's Lava Chicken
 <audio controls>
-  <source src="Flint and Steel.mp3" type="audio/mpeg">
-  <source src="TNT.mp3" type="audio/mpeg">
+  <source src="https://yeetyourfiles.lol/file/14f5af7e/Steve's%20Lava%20Chicken.mp3" type="audio/mpeg">
+  
